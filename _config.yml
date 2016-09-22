@@ -26,4 +26,4 @@ github_username:  claycampbell
 
 # Build settings
 markdown: kramdown
-theme: airspace-jekyll-master
+theme: airspace
